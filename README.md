@@ -1,6 +1,6 @@
 ### 서울 시민카드 데이터 분석 프로젝트 
 
-[연구논문 원고]() 
+[연구논문 원고](https://github.com/hopebii/seoul_card_data-analysis-/blob/4cda101c133c3418b39e3bfa13de6cdb0ab71bbb/%5B%EC%97%B0%EA%B5%AC%EB%85%BC%EB%AC%B8%5D%20_%ED%86%B5%EA%B3%84%ED%95%99%EA%B3%BC_%EC%9D%B4%EB%8B%A4%ED%98%84.pdf) 
 
 
 #### 1️⃣ 요약 
